@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff9655dc-a04e-4b5e-b302-69534be1d901" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aaQGq9PuCphuM4PwcUjrFrjvsg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/proj2_1/dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sandbox_estimate_pose">
+    <configuration name="sandbox_complementary_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meam620-2020-proj2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj2_1/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj2_1/code/sandbox_complementary_filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox_estimate_pose" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meam620-2020-proj2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj2_1/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj2_1/code/sandbox_estimate_pose.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox_stereo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="meam620-2020-proj2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj2_1/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proj2_1/code/sandbox_stereo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="meam620-2020-proj2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proj2_1/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/proj2_1/util/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sandbox_estimate_pose" />
+        <item itemvalue="Python.sandbox_complementary_filter" />
+        <item itemvalue="Python.sandbox_stereo" />
+        <item itemvalue="Python tests.Unittests in test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff9655dc-a04e-4b5e-b302-69534be1d901" name="Default Changelist" comment="" />
+      <created>1586971131531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586971131531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587248943015">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587248943015" />
+    <state width="1259" height="319" key="GridCell.Tab.0.bottom" timestamp="1593496668896">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592620286181" />
+    <state width="1899" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593447652806" />
+    <state width="1259" height="319" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1593496668896" />
+    <state width="1259" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1587172287044" />
+    <state width="1259" height="319" key="GridCell.Tab.0.center" timestamp="1593496668895">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592620286179" />
+    <state width="1899" height="319" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593447652804" />
+    <state width="1259" height="319" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1593496668895" />
+    <state width="1259" height="245" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1587172287043" />
+    <state width="1259" height="319" key="GridCell.Tab.0.left" timestamp="1593496668894">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592620286178" />
+    <state width="1899" height="319" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593447652803" />
+    <state width="1259" height="319" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1593496668894" />
+    <state width="1259" height="245" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1587172287043" />
+    <state width="1259" height="319" key="GridCell.Tab.0.right" timestamp="1593496668896">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592620286180" />
+    <state width="1899" height="319" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593447652805" />
+    <state width="1259" height="319" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1593496668896" />
+    <state width="1259" height="245" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1587172287044" />
+    <state width="1899" height="374" key="GridCell.Tab.1.bottom" timestamp="1587252904210">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="374" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587252904210" />
+    <state width="1259" height="245" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1587172287045" />
+    <state width="1899" height="374" key="GridCell.Tab.1.center" timestamp="1587252904208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="374" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587252904208" />
+    <state width="1259" height="245" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1587172287044" />
+    <state width="1899" height="374" key="GridCell.Tab.1.left" timestamp="1587252904208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="374" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587252904208" />
+    <state width="1259" height="245" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1587172287044" />
+    <state width="1899" height="374" key="GridCell.Tab.1.right" timestamp="1587252904209">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="374" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587252904209" />
+    <state width="1259" height="245" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1587172287045" />
+    <state x="434" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1593553839056">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="434" y="237" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1593553839056" />
+    <state x="651" y="320" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588308250900" />
+    <state x="434" y="253" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1592011416790" />
+    <state x="651" y="336" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1592676723748" />
+  </component>
+</project>
