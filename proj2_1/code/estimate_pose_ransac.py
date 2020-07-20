@@ -78,7 +78,7 @@ def find_inliers(w, t, uvd1, uvd2, R0, threshold):
     for i in range(n):
         omega_hat = np.array([[0, -w[2,:], w[1,:]],
                               [w[2,:], 0, -w[0,:]],
-                              [-w[1,:], w[0,:], 0]])
+                              [-w[1,:], w[0,:], 0]],dtype=object)
         R = (I + omega_hat).dot(R0)
 
         # calculate Z_ratio: Z1/Z2
@@ -96,12 +96,9 @@ def find_inliers(w, t, uvd1, uvd2, R0, threshold):
         delta_curr = delta_a.dot(delta_b - delta_c)
         delta_curr_norm = np.linalg.norm(delta_curr)
 
-        delta_total[i] = delta_curr_norm*100
+        delta_total[i] = delta_curr_norm
 
     inlier = (delta_total < threshold)
-    print(inlier.sum())
-    print(len(inlier))
-
 
     return inlier
 
